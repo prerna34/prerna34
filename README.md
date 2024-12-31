@@ -1,3 +1,4 @@
+![logo](https://github.com/prerna34/prerna34/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Prerna Kumari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
